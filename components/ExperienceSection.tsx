@@ -5,7 +5,7 @@ import { Experience } from '../types';
 const experienceData: Experience[] = [
   {
     role: 'Software Engineer & Security Researcher',
-    company: 'NISS',
+    company: 'INSA',
     period: 'Current',
     description: 'Developing and maintaining secure software solutions. Conducting research on telecommunications vulnerabilities and implementing defensive measures. Also responsible for GSM, LTE, and software testing.',
   },
