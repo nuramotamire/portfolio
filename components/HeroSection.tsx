@@ -40,7 +40,7 @@ const HeroSection: React.FC = () => {
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96">
                 <div className="absolute inset-0 bg-cyan-500/30 rounded-full blur-2xl animate-pulse"></div>
                 <img
-                src="assets/images/nuramo.jpg"
+                src="images/nuramo.jpg"
                 alt="Nuramo Tamire Headshot"
                 className="relative w-full h-full rounded-full object-cover border-4 border-slate-700 shadow-2xl"
                 />

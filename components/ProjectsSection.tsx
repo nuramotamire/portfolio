@@ -50,19 +50,19 @@ const projectsData: Project[] = [
     title: 'Enawra Chat (React Native)',
     description: 'A real-time chat application built for secure and instant communication using React Native, Appwrite (auth + DB), and Expo.',
     caseStudyUrl: 'https://github.com/nuramotamire/enawra-chat',
-    imageUrl: 'assets/images/enawra-login.png', // ✅ static local image
+    imageUrl: 'images/enawra-login.png', // ✅ static local image
   },
   {
     title: 'Grocery App (React Native)',
     description: 'A food ordering app with cart, search, filtering, and loyalty program powered by Appwrite and Expo.',
     caseStudyUrl: 'https://github.com/nuramotamire/blue-injera-ordering',
-    imageUrl: 'assets/images/grocery.jpg', // ✅ static local image
+    imageUrl: 'images/grocery.jpg', // ✅ static local image
   },
   {
     title: 'Portfolio App (React)',
     description: 'This portfolio website — built with React 19, TypeScript, Framer Motion, and Tailwind CSS — showcasing my projects and skills.',
     caseStudyUrl: 'https://github.com/nuramotamire/portfolio/tree/main',
-    imageUrl: 'assets/images/portf.jpg', // ✅ static local image
+    imageUrl: 'images/portf.jpg', // ✅ static local image
   },
 ];
 

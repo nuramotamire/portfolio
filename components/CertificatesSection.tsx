@@ -8,14 +8,14 @@ const certificatesData: Certificate[] = [
     issuer: 'CodeJika',
     date: '2023',
     verifyUrl: '#',
-    imageUrl: 'assets/images/codejika.jpg',
+    imageUrl: 'images/codejika.jpg',
   },
   {
     title: 'AI and Career Empowerment Course',
     issuer: 'Robert H. Smith University School of Business',
     date: '2024',
     verifyUrl: '#',
-    imageUrl: 'assets/images/career.jpg',
+    imageUrl: 'images/career.jpg',
   },
 ];
 
