@@ -45,6 +45,12 @@ const projectsData: Project[] = [
   //   caseStudyUrl: '#',
   //   imageUrl: 'https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   // },
+  {
+    title: 'AI spreech Transcription app React native ',
+    description: 'This is a minimal demonstration application built with React Native and Expo for performing both real-time live audio transcription and file-based transcription using the high-performance whisper.rn library, which utilizes the local device',
+    caseStudyUrl: 'https://github.com/nuramotamire/Transcriber-App.git',
+    imageUrl: 'images/transcriber.png', // ✅ static local image
+  },
 
   {
     title: 'Enawra Chat (React Native)',
