@@ -42,14 +42,14 @@ const CertificateCard: React.FC<{ certificate: Certificate }> = ({ certificate }
         <h3 className="text-xl font-bold text-white mb-2">{certificate.title}</h3>
         <p className="text-slate-400 mb-6">Issued: {certificate.date}</p>
       </div>
-      <a
+      {/* <a
         href={certificate.verifyUrl}
         target="_blank"
         rel="noopener noreferrer"
         className="mt-auto block text-center bg-slate-700 text-white font-semibold py-2 px-4 rounded-lg hover:bg-cyan-500 transition-all duration-300 transform hover:scale-105"
       >
         Verify Credential
-      </a>
+      </a> */}
     </div>
   </motion.div>
 );
